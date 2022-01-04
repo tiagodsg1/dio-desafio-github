@@ -1,1 +1,17 @@
-Link para o desafio da Dio: https://github.com/tiagodsg1/dio-desafio-github.git
+Link para o dowload do Git: https://git-scm.com/download/win
+
+*Comandos básicos Git:
+-Git init
+-> Para iniciar.
+
+-Cd 
+->Para entrar em uma pasta.
+
+-Cd ..
+->Para retroceder uma pasta.
+
+-Control L
+->Para limpar a area de programação.
+
+-Mkdir
+->Para a criação de uma pasta.
